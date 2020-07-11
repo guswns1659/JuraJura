@@ -3,7 +3,7 @@ name: 한 주간 목표
 about: 한 주간 목표 템플릿
 title: 0주차 주간 목표
 labels: 주간목표
-assignees: guswns1659 
+assignees: 102092 
 ---
 
 ## 목표는 최대 2개만 작성. 
