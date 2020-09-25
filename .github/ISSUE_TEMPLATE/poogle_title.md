@@ -1,7 +1,7 @@
 ---
 name: 푸글 주간 목표 
 about: 푸글 주간 목표 템플릿
-title: [2기] 0주차 주간 목표
+title: "[2기] 0주차 주간 목표"
 labels: 주간목표
 assignees: suhyunsim 
 ---
