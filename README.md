@@ -7,6 +7,7 @@
 - [회고](https://github.com/guswns1659/JuraJura/issues/58)
 
 ## 3기 (2020.11.13 ~ )
+- [회고](https://github.com/guswns1659/JuraJura/issues/138)
 
 ## 취지
 - 취업을 목표로 서류, 코딩테스트, 기술면접 각 단계 별로 체계적으로 준비하기 위한 모임
