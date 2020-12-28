@@ -6,7 +6,7 @@
 ## 2기 (2020.09.04 ~ 2020.11.06)
 - [회고](https://github.com/guswns1659/JuraJura/issues/58)
 
-## 3기 (2020.11.13 ~ )
+## 3기 (2020.11.13 ~ 2020.12.28)
 - [회고](https://github.com/guswns1659/JuraJura/issues/138)
 
 ## 취지
